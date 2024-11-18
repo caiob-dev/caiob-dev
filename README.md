@@ -4,30 +4,22 @@
 
 ![Caiob2811 GitHub stats](https://github-readme-stats.vercel.app/api?username=caiob2811&show_icons=true&theme=transparent)
 
-## Tecnologias que uso no meu dia-a-dia
+## Technologies that i use daily/ That i've knowledge ##
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
+  <h2>Front-End:</h2>
+  <img align="center" height="30" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />      
+  <img align="center" height="30" width="40" alt="javaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" alt="Bootstrap" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" height="30" width="40" alt="Bootstrap" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+</div>     
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <h2>Back-End:</h2>
+  <img align="center" height="40" width="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<div style="display: inline_block"><br/> 
+  <h2>Passionate about technology, education and for change and improve the people lifes.</h2>
 </div>
-
-<div style="display: inline_block"><br/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap">
-</div>
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt= "Bootstrap" src="https://img.shields.io/badge/Bootstrap?style=for-the-badge&logoColor=purple">
-/>
-</div>
-
-
-
-
-Passionate about technology, education and for change and improve the people lives
