@@ -4,6 +4,8 @@
 
 ![Caiob2811 GitHub stats](https://github-readme-stats.vercel.app/api?username=caiob2811&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiob2811&layout=compact&theme=transparent)
+
 ## Technologies that i use daily/ That i've knowledge ##
 
 <div style="display: inline_block"><br/>
