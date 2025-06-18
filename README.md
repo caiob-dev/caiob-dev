@@ -21,8 +21,7 @@
   <img align="center" height="30" width="40" alt="React" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" alt="Angular" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" height="30" width="40" alt="Node.js" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" height="30" width="40" alt="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
+  
           
   
   
@@ -32,6 +31,7 @@
 <div style="display: inline_block"><br/>
   <h3>Back-End:</h3>
   <img align="center" height="40" width="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="30" width="40" alt="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 <div style="display: inline_block"><br/> 
