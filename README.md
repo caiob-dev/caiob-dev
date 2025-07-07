@@ -21,6 +21,8 @@
   <img align="center" height="30" width="40" alt="React" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" alt="Angular" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" height="30" width="40" alt="Node.js" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" height="30" width="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
   
           
   
