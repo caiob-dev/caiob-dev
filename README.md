@@ -2,14 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-bomfim-pantoja/)
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiob-dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"/>
-</div>
-
-
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiob-dev&show_icons=true&theme=transparent)
-
-
 
 <div style="display: inline_block"><br/>
   <h2>Technologies that i use daily / That i've knowledge:</h2>
