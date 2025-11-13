@@ -28,6 +28,7 @@
   <img align="center" height="40" width="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" height="30" width="40" alt="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="30" width="40" alt="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"/>
+  <img align="center" height="30" width="40" alt="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>   
 </div>
 
 <div style="display: inline_block"><br/> 
