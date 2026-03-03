@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-bomfim-pantoja/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=caiob-dev&show_icons=true&cache_seconds=86400)](https://github.com/caiob-dev/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caiob-dev&show_icons=true)
 
 
 <div style="display: inline_block"><br/>
