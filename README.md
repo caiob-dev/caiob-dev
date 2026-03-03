@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-bomfim-pantoja/)
 
-(https://github-readme-stats.vercel.app/api?username=caiob-dev)](https://github.com/caiob-dev/github-readme-stats)
+[![Caiob-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiob-dev)](https://github.com/caiob-dev/github-readme-stats)
+
 
 <div style="display: inline_block"><br/>
   <h2>Technologies that i use daily / That i've knowledge:</h2>
